@@ -1,4 +1,4 @@
-# power-bi-projects
+# Power-Bi-projects
 
 Project 1 
 Call Centre Trends 
