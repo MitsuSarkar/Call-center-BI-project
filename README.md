@@ -1,6 +1,5 @@
-#Call Center Power Bi projects
+**Call Center Power Bi projects**
 
-Project 1 
 Call Centre Trends 
 Real-time monitoring: Power BI allows call centers to monitor key performance indicators (KPIs) in real-time, providing immediate visibility into call volumes, wait times, agent performance, customer satisfaction scores, and more. This enables proactive management and quick response to potential issues.
 ![image](https://github.com/user-attachments/assets/7a4c7a49-49fc-4879-b95f-73ffcf55ad75)
@@ -10,15 +9,6 @@ Interactive dashboards: With Power BI's interactive dashboards, call center mana
 
 Predictive analytics: Power BI's advanced analytics capabilities enable call centers to leverage predictive models, forecasting future call volumes, resource requirements, and customer demands. By anticipating needs in advance, call centers can optimize staffing, scheduling, and resource allocation for improved efficiency and cost-effectiveness.
 
-Project 2 
-Customer Retention
-Customer retention is the percentage of customers who continue to do business with a company over a period of time. It is an important metric for businesses because it can help them to identify and understand factors that contribute to customer churn.
-Power BI is a business intelligence (BI) tool that can be used to analyze customer data and identify patterns and trends that can help businesses to improve customer retention.
-Some of the metrics that can be analyzed in Power BI to measure customer retention include:
-Churn rate: The percentage of customers who stop doing business with a company over a period of time.
-Customer lifetime value: The average revenue generated from a customer over their lifetime.
-Customer journey: The steps that a customer takes from becoming aware of a company to becoming a loyal customer.
-Power BI can be used to create reports and dashboards that visualize customer retention data and help businesses to identify areas where they can improve.
 
 Project 3
 Diversity & Inclusion 
